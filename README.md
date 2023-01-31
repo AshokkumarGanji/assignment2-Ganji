@@ -37,7 +37,7 @@ This table contains the information about 3 different countries and the table fi
 >Life is not a problem to be solved, but a reality to be experience. 
 -*James Joyce*
 
-Everything comes in time to him who knows how to wait. 
+>Everything comes in time to him who knows how to wait. 
 -*Leo Tolstoy*
 
 
