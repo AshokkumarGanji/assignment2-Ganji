@@ -31,4 +31,13 @@ This table contains the information about 3 different countries and the table fi
 |      Italy        |     rich history vibrantculture      |              60            |
 |       USA         |     World class  Museums             |              50            |
 
+---
+#### Pithy quotes
+
+>Life is not a problem to be solved, but a reality to be experience. 
+-*James Joyce*
+
+Everything comes in time to him who knows how to wait. 
+-*Leo Tolstoy*
+
 
