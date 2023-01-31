@@ -19,3 +19,16 @@ My favourite game is cricket. It is a **popularly played sport throughout the wo
 * Gujarat Titans
 
 [AboutMe](AboutMe.md)
+
+---
+#### Table
+
+This table contains the information about 3 different countries and the table first column should be the name of a country, second column should be the reason why you recommend it and The third column is how many days you would spend there. 
+
+|      Country      |        Reason                        |         No.of days         |
+|-------------------|--------------------------------------|----------------------------|
+|      India        |     Good Food                        |              90            |
+|      Italy        |     rich history vibrantculture      |              60            |
+|       USA         |     World class  Museums             |              50            |
+
+
